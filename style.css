@@ -1,0 +1,13 @@
+ body {
+  margin: 5.5em;
+  padding: 5.5em;
+}
+h1{
+  color:red;
+}
+canvas {
+  display: block;
+}
+*{
+  background-color:blanchedalmond;
+}
